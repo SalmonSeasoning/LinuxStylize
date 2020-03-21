@@ -1,5 +1,5 @@
 # LinuxStylize
-Just a neat little C program I made that allows you to add color &amp; style to text in terminal. Works like "cat" does.
+Just a neat little C program I made that allows you to add color &amp; style to text in terminal.
 
 # Compiling
 `gcc linux_out.c -o stylize` This will just be an executable. If you want to do anything fancy with it, figure it out yourself.
