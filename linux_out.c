@@ -1,3 +1,8 @@
+////////////////////////////////////////////////////
+//             (C) 2020 Ty Qualters               //
+//      See LICENSE for license information       //
+////////////////////////////////////////////////////
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
